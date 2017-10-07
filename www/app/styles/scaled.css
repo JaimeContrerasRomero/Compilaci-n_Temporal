@@ -1,0 +1,20 @@
+﻿/*!
+ * This file is part of App Builder
+ *
+ * ©2017 App Builder - https://www.davidesperalta.com
+ */
+/* Código CSS auto generado para la app */
+
+html, body { width: 320px; height: 480px; }
+
+.appView { width: 100vw; height: 100vh; }
+
+#pNum { position: absolute; top: 23.33%; left: 2.50%; width: 95.00%; height: 8.33%; }
+
+#sNum { position: absolute; top: 36.67%; left: 2.50%; width: 95.00%; height: 8.33%; }
+
+#btn_suma { position: absolute; top: 50.00%; left: 17.50%; width: 62.50%; height: 8.33%; }
+
+#Label1 { position: absolute; top: 11.67%; left: 17.50%; width: 62.50%; height: 8.33%; text-align: center;}
+
+#Result { position: absolute; top: 63.33%; left: 2.50%; width: 92.50%; height: 8.33%; }
